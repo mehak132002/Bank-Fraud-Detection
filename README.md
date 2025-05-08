@@ -12,3 +12,5 @@ Logistic Regression
 Pandas & Seaborn (EDA)
 
 Gradio (for frontend)
+
+I'd love if you go check out the notebook and share any feedback or suggestions that could help me enhance my skills further!
